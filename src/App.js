@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="container">
-          <Home  size="200" color="red"/>
-          <Wallet  size="200" color="blue"/>
+          <Home width="200" height="200" color="red"/>
+          <Wallet width="200" height="200" color="blue"/>
         </div>
       </header>
     </div>
