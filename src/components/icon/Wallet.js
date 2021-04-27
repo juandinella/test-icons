@@ -1,9 +1,8 @@
 import React from 'react'
 
-const Wallet = ({ className, width, height, color }) => {
+const Wallet = ({ width, height, color }) => {
   return (
     <svg
-      className={className}
       width={width}
       height={height}
       viewBox="0 0 30 30"

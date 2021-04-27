@@ -1,9 +1,8 @@
 import React from 'react'
 
-const Home = ({ className, width, height, color }) => {
+const Home = ({ width, height, color }) => {
   return (
     <svg
-      className={className}
       width={width}
       height={height}
       viewBox="0 0 30 30"
